@@ -1,2 +1,41 @@
-# MA-WSN
-Sistema proposto de monitoramento ambiental do Parque da Quiçama usando uma Rede de Sensores Sem Fio (LoRa + ESP32)
+#📘 Proposta de Monitoramento Ambiental do Parque da Quiçama usando RSSF (LoRa)
+
+Este repositório contém o projecto desenvolvido como Trabalho de Fim de Curso para obtenção do grau de Licenciado em Engenharia de Telecomunicações na UniLuanda – INSTIC, por Girildo Kolbe Kiponde Catanha (2024-2025).
+
+🎯 Objectivo
+
+Implementar uma Rede de Sensores Sem Fio (RSSF) para monitoramento de:
+
+Temperatura
+
+Humidade
+
+Concentração de fumaça
+
+Usando ESP32-C3, LoRa RFM95W, MQ-135, DHT22, alimentados por painel solar e integrados ao Node-RED.
+
+🛰 Tecnologias
+
+ESP32-C3
+
+LoRa RFM95W
+
+MQTT
+
+Node-RED
+
+CupCarbon
+
+Wokwi
+
+
+🧪 Simulações
+
+CupCarbon
+
+Wokwi
+
+👨‍💻 Autor
+
+Girildo Kolbe Kiponde Catanha
+Engenheiro de Telecomunicações
