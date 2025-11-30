@@ -23,18 +23,8 @@ Utilizando **ESP32-C3**, **LoRa RFM95W**, **MQ-135**, **DHT22**, alimentados por
 - MQTT  
 - Node-RED  
 - CupCarbon  
-- Wokwi  
-
----
-
-## 📡 Arquitectura  
-*(Inserir aqui a imagem da arquitectura da rede)*
-
----
-
-## 📂 Estrutura do Repositório  
-*(Inserir a estrutura das pastas ou deixar apontado para as pastas do GitHub)*
-
+- Wokwi
+  
 ---
 
 ## 🧪 Simulações
